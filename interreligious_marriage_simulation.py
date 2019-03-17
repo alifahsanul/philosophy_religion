@@ -27,5 +27,17 @@ p1 = Person(religion='islam', gender= 'male')
 p2 = Person(religion='islam', gender = 'female')
 marry(p1, p2)
 
+population1 = []
+n_of_person = 100
+for i in range(n_of_person):
+    person = Person(religion='islam', gender= 'male')
+    population1.append(person)
+
+
+
+
+
+
+
 
 
